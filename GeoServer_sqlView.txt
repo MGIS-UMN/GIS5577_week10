@@ -1,1 +1,1 @@
-http://149.165.157.200:8080/geoserver/solap/wms?service=WMS&version=1.1.0&request=GetMap&layers=solap%3Amidwest_states&viewparams=place:Iowa&bbox=-97.2392185395905%2C43.4993637724772%2C-89.4917460757147%2C49.3843664385227&width=768&height=583&srs=EPSG%3A4326&format=application/openlayers
+http://149.165.169.191:8080/geoserver/public/wms?service=WMS&version=1.1.0&request=GetMap&layers=public%3Astates&bbox=-124.7630844116211%2C24.523099899291992%2C-66.94989013671875%2C49.384368896484375&width=768&height=330&srs=EPSG%3A4326&format=application/openlayers

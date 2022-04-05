@@ -1,0 +1,1 @@
+http://149.165.169.191:8080/geoserver/public/wms?service=WMS&version=1.1.0&request=GetMap&layers=public%3AGLC2000&bbox=-180.00446428570004%2C-55.09374958369996%2C179.37053456430002%2C89.99553566630006&width=768&height=330&srs=EPSG%3A4326&env=&lcwater:0&format=application/openlayers
