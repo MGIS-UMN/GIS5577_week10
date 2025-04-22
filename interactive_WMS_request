@@ -1,0 +1,29 @@
+http://149.165.151.180:8080/geoserver/GIS5577/wms?service=WMS&version=1.1.0&request=GetMap&layers=GIS5577%3Agloballandcover2000&bbox=-180.00446428570004%2C-56.01339243789998%2C179.99553456230004%2C89.99553566630006&width=768&height=330&srs=EPSG%3A4326&styles=&format=application/openlayers
+
+http://149.165.151.180:8080/geoserver/GIS5577/wms?service=WMS&version=1.1.0&request=GetMap&layers=GIS5577%3Agloballandcover2000&bbox=-180.00446428570004%2C-56.01339243789998%2C179.99553456230004%2C89.99553566630006&width=768&height=330&srs=EPSG%3A4326&env=lcwater:0&styles=&format=application/openlayers
+
+
+lcnodata -- quantity="0"
+lcbrdevgrn -- quantity="1"
+lcdecidcl -- quantity="2"
+lcdecidop -- quantity="3"
+lcndlevgrn -- quantity="4"
+lcndldecid -- quantity="5"
+lcmxlftree -- quantity="6"
+lcaqtrfrsh -- quantity="7"
+lcaqtrsali -- quantity="8"
+lctreeoth -- quantity="9"
+lctreeburn -- quantity="10"
+lcshbevgrn -- quantity="11"
+lcshbdecid -- quantity="12"
+lcherbac -- quantity="13"
+lcsparse -- quantity="14"
+lcaqshrb -- quantity="15"
+lcmngterr -- quantity="16"
+lcagtroth -- quantity="17"
+lcagshrb -- quantity="18"
+lcbare -- quantity="19"
+lcwater -- quantity="20"
+lcsnowice -- quantity="21"
+lcartif -- quantity="22"
+

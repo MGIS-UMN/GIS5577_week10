@@ -1,0 +1,10 @@
+https://docs.geoserver.org/stable/en/user/tutorials/cql/cql_tutorial.html
+
+https://docs.geoserver.org/main/en/user/data/database/sqlview.html
+
+
+http://149.165.151.180:8080/geoserver/GIS5577/wms?service=WMS&version=1.1.0&request=GetMap&layers=GIS5577%3Amn_counties_query&bbox=-96.80314400015199%2C43.601347999594516%2C-91.25973600011488%2C48.61507299986881&width=768&height=694&srs=EPSG%3A4326&styles=&format=application/openlayers#toggle
+
+
+
+http://149.165.151.180:8080/geoserver/GIS5577/wms?service=WMS&version=1.1.0&request=GetMap&layers=GIS5577%3Amn_counties_query&bbox=-96.80314400015199%2C43.601347999594516%2C-91.25973600011488%2C48.61507299986881&viewparams=totpop:200&width=768&height=694&srs=EPSG%3A4326&styles=&format=application/openlayers#toggle

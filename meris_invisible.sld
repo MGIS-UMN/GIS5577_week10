@@ -3,9 +3,9 @@
   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.0.0/StyledLayerDescriptor.xsd">
   <NamedLayer>
-    <Name>GLC GROUP</Name>
+    <Name>MERIS GROUP</Name>
     <UserStyle>
-      <Title>Global Landcover 2000</Title>
+      <Title>Meris imagery</Title>
       <Abstract>.....Something </Abstract>
       <FeatureTypeStyle>
         <Rule>
